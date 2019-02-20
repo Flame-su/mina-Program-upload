@@ -1,0 +1,7 @@
+<!--pages/list/list.wxml-->
+
+<!-- <view wx:for="{{listInfo}}">
+{{index}}:{{item.name}} {{item.time}}
+</view> -->
+
+<button bindtap='upload'>上传</button>
